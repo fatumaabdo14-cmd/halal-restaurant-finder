@@ -2,7 +2,7 @@
 
 A Python CLI application demonstrating core programming fundamentals through a real-world problem.
 
-**Portfolio Project | Built in 2 Hours | All Python Basics in One App**
+**A command-line app that applies core Python (data structures, functions, control flow) to a real problem.**
 
 ---
 
@@ -85,7 +85,7 @@ Want to expand this?
 
 ## Built By
 
-**Fatuma** | Cloud Engineering Student | TechWithSoleyman Bootcamp
+**Fatuma Abdo** · Cloud Engineer
 
 ---
 
